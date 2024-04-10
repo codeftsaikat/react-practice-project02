@@ -1,0 +1,14 @@
+/* .users {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+} */
+
+@media (min-width: 992px) {
+
+        .users {
+                display: grid;
+                grid-template-columns: repeat(3, 1fr);
+                gap: 10px;
+        }
+}
